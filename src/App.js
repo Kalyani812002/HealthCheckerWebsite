@@ -44,7 +44,7 @@ function App() {
         <input
           className="input"
           type="text"
-          placeholder="Symptom type करा..."
+          placeholder="Symptom type ..."
           value={symptom}
           onChange={(e) => setSymptom(e.target.value)}
         />

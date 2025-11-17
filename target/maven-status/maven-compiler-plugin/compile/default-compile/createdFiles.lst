@@ -1,0 +1,6 @@
+com\HealthChecker\HealthController.class
+com\HealthChecker\SymptoAnalyzer.class
+com\HealthChecker\SymptomEntry.class
+com\HealthChecker\SymptomRepository.class
+com\HealthChecker\SymptomRequest.class
+com\HealthChecker\HealthCheckerApplication.class

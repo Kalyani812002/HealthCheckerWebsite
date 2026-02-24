@@ -31,7 +31,8 @@ A simple React-based web application that allows users to enter symptoms and get
 
 ## 📸 Screenshots
 
-(Add project screenshots here)
+<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/8c2a9b6a-dce7-4e2d-a77f-0e66312fd086" />
+
 
 ---
 
